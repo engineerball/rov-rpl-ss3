@@ -1,0 +1,130 @@
+id,Week,Day,Match,Game,Blue,Red,Winner,blue_ban_1,blue_ban_2,blue_ban_3,blue_ban_4,blue_pick_1,blue_pick_2,blue_pick_3,blue_pick_4,blue_pick_5,red_ban_1,red_ban_2,red_ban_3,red_ban_4,red_pick_1,red_pick_2,red_pick_3,red_pick_4,red_pick_5
+1,1,1,1,1,AHQ Esport Club,Bazaar Gaming,AHQ Esport Club,Elsu,Riktor,Lindis,Violet,Florentino,TeeMee,Liliana,Rourke,Valhein,Quillen,Sephera,Kriknak,Maloch,Veres,Tulen,Xeniel,Murad,Baldum
+2,1,1,1,2,AHQ Esport Club,Bazaar Gaming,AHQ Esport Club,Quillen,Sephera,Tulen,The Joker,Riktor,Y'bneth,Tel'Annas,Raz,Nakroth,Elsu,Florentino,Ryoma,Kriknak,Omen,TeeMee,Violet,Liliana,Maloch
+3,1,1,2,1,Toyota Diamond Cobra,Workpoint Fighting Fish,Toyota Diamond Cobra,Veres,Florentino,Omen,Raz,Riktor,Liliana,Kriknak,Xeniel,Valhein,Sephera,Annette,Y'bneth,Mina,Elsu,TeeMee,Zill,Aleister,Superman
+4,1,1,2,2,Workpoint Fighting Fish,Toyota Diamond Cobra,Workpoint Fighting Fish,Annette,Riktor,Xeniel,Arum,Elsu,Alice,Liliana,Nakroth,Omen,Florentino,Veres,Ryoma,Rourke,Sephera,TeeMee,Kriknak,Valhein,Roxie
+5,1,1,2,3,Workpoint Fighting Fish,Toyota Diamond Cobra,Toyota Diamond Cobra,Annette,Riktor,Mina,Lindis,Elsu,Tulen,TeeMee,Marja,Ryoma,Florentino,Alice,Omen,Xeniel,Veres,Sephera,Superman,Liliana,Kriknak
+6,1,1,3,1,Mega Ignition,Buriram United,Buriram United,Florentino,Elsu,Valhein,Aleister,Omen,Liliana,Zill,Tel'Annas,Annette,Sephera,Quillen,Tulen,Ilumia,Kriknak,Raz,TeeMee,Riktor,Wisp
+7,1,1,3,2,Buriram United,Mega Ignition,Buriram United,TeeMee,Riktor,Aleister,Tulen,Baldum,Sephera,Kriknak,Marja,Tel'Annas,Florentino,Elsu,Veres,Y'bneth,Liliana,Omen,Valhein,Quillen,Annette
+8,1,1,4,1,Evos.Debut,RRQ Black Forest,Evos.Debut,Quillen,Valhein,TeeMee,The Joker,Annette,Tel'Annas,Omen,Aleister,Zill,Florentino,Elsu,Nakroth,Tulen,Sephera,Riktor,Kriknak,Y'bneth,Maloch
+9,1,1,4,2,Evos.Debut,RRQ Black Forest,Evos.Debut,Quillen,Valhein,TeeMee,Sephera,Annette,Liliana,Riktor,Roxie,Violet,Elsu,Florentino,The Joker,Tulen,Omen,Tel'Annas,Kriknak,Raz,Y'bneth
+10,1,1,5,1,Buriram United,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Lindis,The Joker,Superman,Quillen,Tel'Annas,Veres,Raz,Arum,Elsu,Florentino,Y'bneth,Baldum,Sephera,TeeMee,Kriknak,Xeniel,Yorn
+11,1,1,5,2,Toyota Diamond Cobra,Buriram United,Buriram United,TeeMee,Florentino,Y'bneth,Baldum,Elsu,Veres,Lindis,Mina,Ryoma,Riktor,Annette,Superman,Alice,Quillen,Sephera,Xeniel,Wisp,Chaugnar
+12,1,1,5,3,Toyota Diamond Cobra,Buriram United,Buriram United,TeeMee,Florentino,Wisp,Y'bneth,Elsu,Xeniel,Kriknak,Liliana,Superman,Annette,Riktor,Marja,Alice,Quillen,Sephera,Omen,Valhein,Mina
+13,1,2,6,1,Evos.Debut,Bazaar Gaming,Bazaar Gaming,Quillen,Riktor,Superman,Veres,Elsu,Liliana,Annette,Zill,Maloch,Florentino,Sephera,Kriknak,Xeniel,Omen,TeeMee,Violet,Ryoma,Tulen
+14,1,2,6,2,Evos.Debut,Bazaar Gaming,Evos.Debut,Riktor,Elsu,Kriknak,Murad,Omen,Liliana,TeeMee,Tel'Annas,Lindis,Florentino,Quillen,Tulen,Aleister,Sephera,Ryoma,Baldum,Violet,Xeniel
+15,1,2,6,3,Evos.Debut,Bazaar Gaming,Bazaar Gaming,Elsu,Riktor,Veres,Kriknak,Omen,Tel'Annas,Quillen,Thane,Natalya,Florentino,Annette,Aleister,Baldum,Tulen,TeeMee,Superman,Lindis,Arum
+16,1,2,7,1,RRQ Black Forest,Mega Ignition,Mega Ignition,Annette,Riktor,Aleister,Baldum,Xeniel,TeeMee,Ryoma,Sephera,Wisp,Florentino,Elsu,Kriknak,Lindis,Omen,Quillen,Tel'Annas,Alice,Liliana
+17,1,2,7,2,Mega Ignition,RRQ Black Forest,Mega Ignition,Tel'Annas,Elsu,Valhein,Marja,Sephera,TeeMee,Omen,Violet,Maloch,Annette,Florentino,Aleister,Lindis,Ryoma,Riktor,Baldum,Wisp,Kahlii
+18,1,2,8,1,Workpoint Fighting Fish,AHQ Esport Club,AHQ Esport Club,TeeMee,Riktor,Maloch,Baldum,Sephera,Annette,Ryoma,Arduin,Lindis,Elsu,Florentino,Superman,Tel'Annas,Omen,Violet,Liliana,Valhein,Y'bneth
+19,1,2,8,2,Workpoint Fighting Fish,AHQ Esport Club,AHQ Esport Club,TeeMee,Riktor,Maloch,Valhein,Sephera,Ryoma,Tel'Annas,Lu Bu,Annette,Elsu,Florentino,Lindis,Zill,The Joker,Violet,Liliana,Y'bneth,Omen
+20,2,1,9,1,Workpoint Fighting Fish,RRQ Black Forest,Workpoint Fighting Fish,Riktor,Omen,Tel'Annas,Wisp,Sephera,Veres,Violet,Liliana,Marja,Florentino,Elsu,Superman,Annette,Xeniel,TeeMee,Ryoma,Kahlii,Quillen
+21,2,1,9,2,Workpoint Fighting Fish,RRQ Black Forest,Workpoint Fighting Fish,Riktor,Omen,Wisp,Lindis,Sephera,Tel'Annas,Veres,Baldum,Zill,Florentino,Elsu,Liliana,Kriknak,TeeMee,Xeniel,Ryoma,Kahlii,The Joker
+22,2,1,10,1,AHQ Esport Club,Evos.Debut,Evos.Debut,Riktor,Elsu,Liliana,The Joker,Sephera,TeeMee,Tel'Annas,Wonder Woman,Roxie,Florentino,Veres,Kriknak,Quillen,Violet,Omen,Annette,Y'bneth,Jinna
+23,2,1,10,2,Evos.Debut,AHQ Esport Club,AHQ Esport Club,Veres,Riktor,The Flash,Natalya,Sephera,Liliana,Lindis,Wonder Woman,Kil'Groth,Florentino,Elsu,Superman,Maloch,Omen,Violet,Y'bneth,Valhein,Tulen
+24,2,1,10,3,AHQ Esport Club,Evos.Debut,Evos.Debut,Violet,Riktor,Kriknak,Zill,Elsu,Liliana,Arum,Rourke,Lu Bu,Florentino,Veres,Omen,Xeniel,Y'bneth,Sephera,Superman,Annette,Slimz
+25,2,1,11,1,Bazaar Gaming,Buriram United,Buriram United,Elsu,Riktor,Xeniel,Tulen,Veres,Baldum,Nakroth,Omen,The Flash,Florentino,Sephera,Lindis,Quillen,Kriknak,Aleister,TeeMee,Lu Bu,Tel'Annas
+26,2,1,11,2,Buriram United,Bazaar Gaming,Buriram United,Riktor,Sephera,The Joker,Ryoma,Tel'Annas,Quillen,Baldum,Superman,Ilumia,Florentino,Elsu,Xeniel,Aleister,Veres,TeeMee,Tulen,Kriknak,Wisp
+27,2,2,12,1,Toyota Diamond Cobra,Mega Ignition,Toyota Diamond Cobra,Riktor,Omen,Tulen,Annette,Sephera,Liliana,Xeniel,Quillen,The Joker,Florentino,Elsu,Ryoma,Lindis,Veres,Kriknak,Tel'Annas,Baldum,Ilumia
+28,2,2,12,2,Toyota Diamond Cobra,Mega Ignition,Toyota Diamond Cobra,Riktor,Omen,Tulen,Annette,Sephera,Liliana,Xeniel,Zill,The Joker,Florentino,Elsu,Ryoma,Lindis,Veres,Kriknak,Tel'Annas,Kahlii,TeeMee
+29,2,2,13,1,Evos.Debut,Workpoint Fighting Fish,Evos.Debut,Veres,Elsu,TeeMee,Mina,Omen,Violet,Annette,Maloch,Aleister,Florentino,Sephera,Ilumia,Y'bneth,Riktor,Kriknak,Liliana,Baldum,Tel'Annas
+30,2,2,13,2,Workpoint Fighting Fish,Evos.Debut,Evos.Debut,Riktor,Omen,Aleister,Kriknak,Sephera,Elsu,Liliana,Zill,Ryoma,Florentino,Veres,Y'bneth,Xeniel,Superman,Annette,Tel'Annas,Nakroth,Ilumia
+31,2,2,14,1,AHQ Esport Club,Buriram United,Buriram United,Sephera,Superman,Ilumia,Aleister,Elsu,Omen,Liliana,Thane,Rourke,Florentino,Violet,Kriknak,Zephys,Tel'Annas,TeeMee,Quillen,Veres,Tulen
+32,2,2,14,2,Buriram United,AHQ Esport Club,Buriram United,Violet,Omen,TeeMee,Lindis,Elsu,Zill,Baldum,Superman,Maloch,Florentino,Sephera,Lu Bu,Riktor,Veres,Xeniel,Liliana,Y'bneth,Fennik
+33,3,1,15,1,Toyota Diamond Cobra,Evos.Debut,Toyota Diamond Cobra,Omen,Annette,Y'bneth,Nakroth,Sephera,Xeniel,Kriknak,Arum,Elsu,Mina,Maloch,Riktor,Florentino,Veres,Liliana,Superman,Alice,Murad
+34,3,1,15,2,Toyota Diamond Cobra,Evos.Debut,Toyota Diamond Cobra,Omen,Annette,Zill,Nakroth,Riktor,Kriknak,Veres,Superman,Lauriel,Florentino,Sephera,Ilumia,Elsu,Y'bneth,Liliana,Maloch,Xeniel,Slimz
+35,3,1,16,1,Mega Ignition,Bazaar Gaming,Bazaar Gaming,Elsu,Sephera,Tulen,Liliana,Riktor,Kriknak,Baldum,Wisp,Kahlii,Florentino,Veres,The Joker,Xeniel,Tel'Annas,Omen,TeeMee,Ilumia,Quillen
+36,3,1,16,2,Mega Ignition,Bazaar Gaming,Bazaar Gaming,Elsu,Sephera,Xeniel,Superman,Veres,Tel'Annas,Liliana,Annette,The Joker,Florentino,Riktor,TeeMee,Omen,Kriknak,Baldum,Tel'Annas,Max,Kahlii
+37,3,1,17,1,Workpoint Fighting Fish,Buriram United,Buriram United,Quillen,TeeMee,Aleister,Ilumia,Elsu,Riktor,Omen,Raz,Zill,Florentino,Sephera,Maloch,Liliana,Kriknak,Veres,Baldum,Lindis,The Flash
+38,3,1,17,2,Workpoint Fighting Fish,Buriram United,Buriram United,TeeMee,Quillen,Baldum,Tel'Annas,Elsu,Riktor,Liliana,Murad,Y'bneth,Florentino,Sephera,Zill,Xeniel,Kriknak,Veres,Ilumia,Lindis,Arum
+39,3,2,18,1,Mega Ignition,AHQ Esport Club,Mega Ignition,Sephera,Elsu,Tel'Annas,Valhein,Omen,Y'bneth,Riktor,Lindis,Aleister,Florentino,Veres,Kahlii,Ilumia,Baldum,Kriknak,Liliana,Arum,Wisp
+40,3,2,18,2,Mega Ignition,AHQ Esport Club,Mega Ignition,Sephera,Elsu,Y'bneth,TeeMee,Omen,Baldum,Tel'Annas,Quillen,Kahlii,Florentino,Veres,Ilumia,Lindis,Riktor,Kriknak,Wisp,Liliana,Thane
+41,3,2,19,1,Bazaar Gaming,RRQ Black Forest,Bazaar Gaming,Elsu,Riktor,Kahlii,Violet,Veres,Sephera,Tel'Annas,Murad,Marja,Florentino,Baldum,Annette,Y'bneth,Omen,TeeMee,Superman,Kriknak,Liliana
+42,3,2,19,2,RRQ Black Forest,Bazaar Gaming,Bazaar Gaming,Florentino,Sephera,Tulen,Tel'Annas,Riktor,TeeMee,Kahlii,Lindis,Arum,Elsu,Veres,Ryoma,The Joker,Baldum,Omen,Quillen,The Flash,Valhein
+43,3,3,20,1,RRQ Black Forest,Buriram United,Buriram United,Elsu,Veres,Y'bneth,Arum,Omen,Quillen,Baldum,Kahlii,Violet,Florentino,Sephera,Wisp,The Joker,Riktor,Tel'Annas,Kriknak,Aleister,Mina
+44,3,3,20,2,Buriram United,RRQ Black Forest,Buriram United,Tel'Annas,Kriknak,Wisp,Valhein,Sephera,Veres,Riktor,Baldum,Violet,Elsu,Florentino,Nakroth,Lindis,Omen,Quillen,TeeMee,Aleister,Yorn
+45,3,3,21,1,Bazaar Gaming,Workpoint Fighting Fish,Bazaar Gaming,Elsu,Riktor,Aleister,Y'bneth,Tel'Annas,Baldum,Ryoma,Veres,Tulen,Florentino,TeeMee,Quillen,Kriknak,Omen,Sephera,Liliana,Violet,Xeniel
+46,3,3,21,2,Workpoint Fighting Fish,Bazaar Gaming,Bazaar Gaming,Veres,Omen,The Flash,The Joker,Sephera,Tel'Annas,Ilumia,Ryoma,Marja,Florentino,Elsu,Xeniel,Quillen,Kriknak,Riktor,TeeMee,Valhein,Kahlii
+47,3,3,22,1,AHQ Esport Club,Toyota Diamond Cobra,Toyota Diamond Cobra,Kriknak,Riktor,Quillen,Zill,Veres,Violet,Omen,Annette,Tulen,Florentino,Sephera,Baldum,Y'bneth,Elsu,TeeMee,Xeniel,Lauriel,Nakroth
+48,3,3,22,2,Toyota Diamond Cobra,AHQ Esport Club,AHQ Esport Club,Omen,Kriknak,Valhein,Raz,Veres,Zill,Elsu,Y'bneth,Xeniel,Florentino,Sephera,Baldum,Mina,Riktor,TeeMee,Lindis,Superman,Natalya
+49,3,3,22,3,Toyota Diamond Cobra,AHQ Esport Club,AHQ Esport Club,Omen,Riktor,Marja,Valhein,Veres,TeeMee,Superman,Zill,Tel'Annas,Florentino,Sephera,Lindis,Quillen,Kriknak,Elsu,Baldum,Raz,Lu Bu
+50,4,1,23,1,Buriram United,Evos.Debut,Buriram United,Annette,Superman,Ilumia,Aleister,Kriknak,Sephera,Mina,Omen,Wisp,Florentino,Elsu,Riktor,Xeniel,Veres,The Flash,Baldum,Tel'Annas,Nakroth
+51,4,1,23,2,Evos.Debut,Buriram United,Buriram United,Kriknak,Baldum,Ilumia,Xeniel,Elsu,Veres,Annette,Tulen,Zill,Florentino,Sephera,Nakroth,The Flash,Superman,Quillen,TeeMee,Aleister,Wisp
+52,4,2,24,1,RRQ Black Forest,AHQ Esport Club,AHQ Esport Club,Kriknak,TeeMee,Omen,Superman,Elsu,Baldum,Veres,Marja,Murad,Florentino,D'Arcy,Quillen,Zill,Riktor,Sephera,Lindis,Annette,Maloch
+53,4,2,24,2,RRQ Black Forest,AHQ Esport Club,AHQ Esport Club,TeeMee,Lindis,The Flash,Omen,Elsu,Veres,Sephera,Quillen,Xeniel,Florentino,D'Arcy,Marja,Zill,Riktor,Baldum,Kriknak,Ilumia,Max
+54,4,2,25,1,Mega Ignition,Evos.Debut,Evos.Debut,Riktor,Annette,TeeMee,Aleister,Elsu,Kriknak,Sephera,Liliana,Xeniel,Florentino,D'Arcy,Ilumia,Maloch,Omen,Veres,Violet,Baldum,Quillen
+55,4,2,25,2,Evos.Debut,Mega Ignition,Evos.Debut,Riktor,Sephera,Liliana,Ilumia,D'Arcy,Tel'Annas,Kriknak,Ormarr,Ryoma,Florentino,Elsu,TeeMee,Superman,Veres,Omen,Lindis,Baldum,The Flash
+56,4,2,26,1,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,Veres,D'Arcy,Lindis,Valhein,Riktor,Annette,Kriknak,Lauriel,Maloch,Florentino,Sephera,Tel'Annas,Ryoma,Baldum,Omen,Marja,Tulen,Murad
+57,4,2,26,2,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,Veres,D'Arcy,Murad,Tulen,Riktor,TeeMee,Lindis,Raz,Marja,Florentino,Sephera,Xeniel,Roxie,Omen,Baldum,Ryoma,The Flash,Violet
+58,4,2,26,3,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,Veres,D'Arcy,Tulen,Elsu,Sephera,Liliana,Lindis,Maloch,Valhein,Florentino,Riktor,Superman,Annette,Baldum,Omen,Kriknak,Xeniel,Tel'Annas
+59,5,1,27,1,Evos.Debut,AHQ Esport Club,Evos.Debut,Riktor,Kriknak,Omen,Xeniel,Elsu,Veres,Nakroth,Annette,Tulen,Florentino,D'Arcy,The Flash,Ilumia,Sephera,Baldum,Lindis,Marja,Lu Bu
+60,5,1,27,2,AHQ Esport Club,Evos.Debut,AHQ Esport Club,Elsu,Veres,Tulen,Tel'Annas,Riktor,Sephera,Baldum,Zill,Ryoma,Florentino,D'Arcy,Lindis,The Joker,Omen,Kriknak,Annette,Valhein,Aleister
+61,5,1,27,3,Evos.Debut,AHQ Esport Club,AHQ Esport Club,Riktor,Kriknak,TeeMee,Zill,D'Arcy,Maloch,Baldum,Cresht,Lindis,Florentino,Elsu,Tel'Annas,Quillen,Veres,Sephera,Omen,Thane,Slimz
+62,5,1,28,1,Workpoint Fighting Fish,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Veres,Nakroth,Roxie,D'Arcy,Annette,Omen,Lindis,Superman,Florentino,TeeMee,Ryoma,Murad,Elsu,Sephera,Baldum,Cresht,Quillen
+63,5,1,28,2,Workpoint Fighting Fish,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Veres,Maloch,Xeniel,Sephera,Nakroth,Annette,Superman,Tel'Annas,Florentino,Baldum,Ryoma,Omen,Elsu,D'Arcy,TeeMee,Tulen,Max
+64,5,1,29,1,Buriram United,Mega Ignition,Buriram United,Kriknak,Quillen,Lindis,Ryoma,Elsu,Riktor,Baldum,Fennik,Lauriel,Florentino,Sephera,Zill,Murad,Veres,D'Arcy,Omen,Nakroth,Annette
+65,5,1,29,2,Buriram United,Mega Ignition,Buriram United,Kriknak,Tel'Annas,Ryoma,Lindis,Sephera,Quillen,Riktor,Baldum,Lauriel,Florentino,Elsu,Valhein,Wisp,Omen,D'Arcy,Veres,Violet,TeeMee
+66,5,2,30,1,RRQ Black Forest,Evos.Debut,RRQ Black Forest,Elsu,Riktor,Tulen,Omen,Sephera,Tel'Annas,Maloch,Zill,Lu Bu,Florentino,D'Arcy,Nakroth,Kriknak,Veres,Baldum,Violet,Superman,The Flash
+67,5,2,30,2,Evos.Debut,RRQ Black Forest,Evos.Debut,Riktor,Veres,The Joker,Ryoma,Tel'Annas,D'Arcy,Baldum,Skud,Nakroth,Florentino,Elsu,Superman,Maloch,Wisp,Chaugnar,Kriknak,Sephera,Omen
+68,5,2,30,3,RRQ Black Forest,Evos.Debut,RRQ Black Forest,Elsu,Riktor,Nakroth,Violet,Tel'Annas,Omen,Annette,Zill,Maloch,Florentino,D'Arcy,Ilumia,Kriknak,Veres,Sephera,Baldum,Y'bneth,Slimz
+69,5,2,31,1,Toyota Diamond Cobra,Buriram United,Buriram United,Veres,Sephera,Omen,Wisp,Elsu,Baldum,Tulen,Ryoma,Marja,Florentino,Riktor,Quillen,Nakroth,Kriknak,D'Arcy,Y'bneth,Xeniel,Tel'Annas
+70,5,2,31,2,Toyota Diamond Cobra,Buriram United,Buriram United,Veres,Sephera,Y'bneth,TeeMee,Elsu,Baldum,Quillen,Chaugnar,Zill,Florentino,Riktor,Tulen,Liliana,Kriknak,D'Arcy,Xeniel,Mina,Omen
+71,5,3,32,1,Mega Ignition,RRQ Black Forest,Mega Ignition,D'Arcy,Tel'Annas,TeeMee,Aleister,Sephera,Kriknak,Omen,Valhein,Y'bneth,Florentino,Elsu,Baldum,Wisp,Riktor,Veres,Zill,Annette,Yorn
+72,5,3,32,2,RRQ Black Forest,Mega Ignition,RRQ Black Forest,Omen,Sephera,Kahlii,Tulen,Florentino,TeeMee,Tel'Annas,Raz,Murad,D'Arcy,Elsu,Zill,Quillen,Kriknak,Veres,Y'bneth,Liliana,Riktor
+73,5,3,32,3,Mega Ignition,RRQ Black Forest,RRQ Black Forest,D'Arcy,Tel'Annas,Valhein,Wisp,Elsu,Veres,Baldum,Nakroth,Lauriel,Florentino,Kriknak,Tulen,The Flash,Sephera,Omen,TeeMee,Superman,Violet
+74,5,3,33,1,AHQ Esport Club,Workpoint Fighting Fish,AHQ Esport Club,Veres,Elsu,Tel'Annas,Ryoma,Riktor,Zill,Omen,Baldum,Natalya,Florentino,Kriknak,Tulen,Raz,Sephera,D'Arcy,Maloch,Lu Bu,Wisp
+75,5,3,33,2,Workpoint Fighting Fish,AHQ Esport Club,Workpoint Fighting Fish,Kriknak,Omen,Tel'Annas,Valhein,Riktor,Nakroth,Sephera,Thane,Xeniel,Florentino,Elsu,Y'bneth,Ryoma,Veres,D'Arcy,Zill,Baldum,Lu Bu
+76,5,3,33,3,AHQ Esport Club,Workpoint Fighting Fish,Workpoint Fighting Fish,Veres,Elsu,The Flash,Aleister,Maloch,D'Arcy,Sephera,Baldum,Arum,Florentino,Riktor,The Joker,Ryoma,Omen,Kriknak,Tel'Annas,Tulen,Thane
+77,6,1,34,1,Mega Ignition,Toyota Diamond Cobra,Mega Ignition,Riktor,Sephera,TeeMee,Annette,Elsu,Omen,Baludum,Zill,Lauriel,Florentino,Kriknak,Tulen,The Flash,D'Arcy,Veres,Ryoma,Maloch,Violet
+78,6,1,34,2,Mega Ignition,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Sephera,TeeMee,Annette,Elsu,Veres,Baludum,Nakroth,Lauriel,Florentino,Omen,Zill,Quillen,Veres,D'Arcy,Xeniel,Y'bneth,Tel'Annas
+79,6,1,34,3,Toyota Diamond Cobra,Mega Ignition,Toyota Diamond Cobra,Omen,Kriknak,Nakroth,Tel'Annas,Riktor,TeeMee,Quillen,Tulen,Valhein,Florentino,Elsu,Xeniel,D'Arcy,Veres,Sephera,Baldum,Ryoma,Baldum
+80,6,1,35,1,RRQ Black Forest,Workpoint Fighting Fish,Workpoint Fighting Fish,Riktor,Omen,Baldum,Kriknak,Veres,Superman,Tel'Annas,Murad,Annette,Florentino,D'Arcy,Zill,TeeMee,Elsu,Sephera,Xeniel,Thane,Nakroth
+81,6,1,35,2,RRQ Black Forest,Workpoint Fighting Fish,RRQ Black Forest,Riktor,Omen,Kriknak,Quillen,Veres,Tel'Annas,Nakroth,Maloch,Annette,Florentino,D'Arcy,Marja,TeeMee,Elsu,Sephera,Xeniel,Thane,Zill
+82,6,1,35,3,Workpoint Fighting Fish,RRQ Black Forest,Workpoint Fighting Fish,D'Arcy,Veres,Tel'Annas,Yorn,Elsu,Sephera,Omen,Wonder Woman,Y'bneth,Florentino,Kriknak,Quillen,Xeniel,Nakroth,Riktor,Roxie,Marja,Toro
+83,6,1,36,1,Buriram United,Bazaar Gaming,Buriram United,Veres,D'Arcy,Kriknak,Tel'Annas,Sephera,Quillen,Baldum,Roxie,Maloch,Florentino,Elsu,Lauriel,Xeniel,Omen,Riktor,The Flash,Ryoma,Zephys
+84,6,1,36,2,Buriram United,Bazaar Gaming,Bazaar Gaming,Veres,D'Arcy,Superman,Tel'Annas,Elsu,Kriknak,Baldum,Y'bneth,Lauriel,Florentino,Quillen,Xeniel,Omen,Sephera,Riktor,Maloch,Murad,Tulen
+85,6,1,36,3,Buriram United,Bazaar Gaming,Bazaar Gaming,Veres,D'Arcy,Tulen,Tel'Annas,Elsu,Sephera,Omen,Mina,Nakroth,Florentino,Quillen,Zill,Murad,Baldum,Riktor,Kriknak,Yorn,Kil'Groth
+86,6,2,37,1,Buriram United,RRQ Black Forest,Buriram United,Maloch,Tel'Annas,TeeMee,Zill,Elsu,D'Arcy,Baldum,Roxie,Kriknak,Florentino,Riktor,Xeniel,Lu Bu,Veres,Omen,Yorn,Annette,Murad
+87,6,2,37,2,RRQ Black Forest,Buriram United,Buriram United,Riktor,Omen,Kriknak,Quillen,Tel'Annas,Superman,Sephera,Ryoma,TeeMee,Florentino,Maloch,Nakroth,Murad,Veres,D'Arcy,Elsu,Zill,Baldum
+88,6,2,38,1,Bazaar Gaming,Evos.Debut,Evos.Debut,Riktor,Omen,Nakroth,Murad,Veres,Superman,Sephera,Ryoma,Quillen,Florentino,D'Arcy,Tel'Annas,The Flash,Elsu,Maloch,Tulen,Violet,Annette
+89,6,2,38,2,Evos.Debut,Bazaar Gaming,Bazaar Gaming,D'Arcy,Tulen,Omen,The Flash,Riktor,Maloch,Violet,Tel'Annas,TeeMee,Florentino,Elsu,Annette,Xeniel,Veres,Sephera,Baldum,Kriknak,Cresht
+90,6,2,38,3,Bazaar Gaming,Evos.Debut,Bazaar Gaming,Maloch,Violet,Murad,Annette,Veres,Elsu,Riktor,Zill,Roxie,Florentino,D'Arcy,Tel'Annas,Kriknak,Omen,Tulen,Superman,Baldum,Quillen
+91,6,3,39,1,Workpoint Fighting Fish,Evos.Debut,Evos.Debut,Omen,Maloch,Tel'Annas,Annette,Riktor,Ryoma,D'Arcy,Xeniel,Thane,Florentino,Elsu,Baldum,Valhein,Veres,Sephera,Nakroth,TeeMee,Moren
+92,6,3,39,2,Evos.Debut,Workpoint Fighting Fish,Evos.Debut,Riktor,Baldum,Kriknak,Ryoma,Elsu,Tulen,Maloch,Xeniel,Quillen,Florentino,Veres,Violet,TeeMee,Sephera,Omen,Tel'Annas,Nakroth,Thane
+93,6,3,40,1,Bazaar Gaming,AHQ Esport Club,AHQ Esport Club,Elsu,Veres,Xeniel,Roxie,Omen,D'Arcy,Tel'Annas,Y'bneth,Marja,Florentino,Riktor,Maloch,Baldum,Sephera,Kriknak,TeeMee,Lu Bu,The Joker
+94,6,3,40,2,AHQ Esport Club,Bazaar Gaming,Bazaar Gaming,Veres,Elsu,Quillen,Murad,Riktor,Kriknak,Omen,Arduin,Natalya,Florentino,TeeMee,Tulen,Thane,Baldum,Sephera,Maloch,D'Arcy,Lindis
+95,6,3,40,3,AHQ Esport Club,Bazaar Gaming,Bazaar Gaming,Veres,Elsu,Quillen,Murad,Riktor,Kriknak,Sephera,Mina,Tel'Annas,Florentino,TeeMee,Lu Bu,Roxie,Baldum,D'Arcy,Omen,Ryoma,Cresht
+96,7,1,41,1,Evos.Debut,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Tulen,Xeniel,Y'bneth,Veres,D'Arcy,Quillen,Annette,Arduin,Florentino,Maloch,TeeMee,Tel'Annas,Elsu,Sephera,The Flash,Wonder Woman,Chaugnar
+97,7,1,41,2,Evos.Debut,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Elsu,Kriknak,Quillen,Maloch,D'Arcy,Omen,Xeniel,Violet,Florentino,TeeMee,Tel'Annas,Nakroth,Veres,Sephera,Tulen,Murad,Zill
+98,7,1,42,1,Bazaar Gaming,Mega Ignition,Bazaar Gaming,Omen,Elsu,Ryoma,Quillen,Veres,Baldum,The Flash,Lindis,Marja,Florentino,Riktor,Nakroth,Murad,Sephera,D'Arcy,Maloch,Kriknak,Xeniel
+99,7,1,42,2,Mega Ignition,Bazaar Gaming,Bazaar Gaming,Omen,Veres,Xeniel,The Flash,Riktor,Sephera,Maloch,Quillen,Tel'Annas,Florentino,Elsu,Murad,Nakroth,Baldum,D'Arcy,Ryoma,Valhein,TeeMee
+100,7,1,42,1,Buriram United,Workpoint Fighting Fish,Buriram United,Quillen,Elsu,Tulen,TeeMee,Sephera,D'Arcy,Baldum,Xeniel,Maloch,Florentino,Kriknak,Omen,Tel'Annas,Riktor,Veres,Nakroth,Y'bneth,The Flash
+101,7,1,42,2,Workpoint Fighting Fish,Buriram United,Buriram United,Veres,D'Arcy,Zill,Lindis,Elsu,Baldum,Kriknak,The Flash,Xeniel,Florentino,Quillen,Omen,Tulen,Riktor,Sephera,Maloch,Wisp,Nakroth
+102,7,2,43,1,Mega Ignition,Workpoint Fighting Fish,Mega Ignition,Riktor,Elsu,Omen,Zill,Veres,D'Arcy,Kriknak,Marja,Annette,Florentino,Sephera,Y'bneth,TeeMee,Maloch,Baldum,Tulen,Superman,Quillen
+103,7,2,43,2,Workpoint Fighting Fish,Mega Ignition,Workpoint Fighting Fish,Veres,Riktor,Annette,Baldum,Quillen,Sephera,Maloch,Roxie,Valhein,Florentino,Elsu,Tel'Annas,Lu Bu,D'Arcy,Omen,Kriknak,Ryoma,Thane
+104,7,2,43,3,Mega Ignition,Workpoint Fighting Fish,Mega Ignition,Riktor,Elsu,TeeMee,Nakroth,Sephera,D'Arcy,Maloch,Kriknak,Roxie,Florentino,Baldum,Tel'Annas,Yorn,Veres,Omen,The Flash,Thane,Quillen
+105,7,2,44,1,AHQ Esport Club,Buriram United,Buriram United,Elsu,Baldum,D'Arcy,Annette,Riktor,Omen,TeeMee,Zephys,Ilumia,Florentino,Maloch,Kriknak,Lindis,Sephera,Veres,Tel'Annas,Quillen,Roxie
+106,7,2,44,2,AHQ Esport Club,Buriram United,Buriram United,Baldum,Elsu,Wisp,The Joker,Veres,Tel'Annas,TeeMee,Zephys,Ilumia,Florentino,Riktor,Kriknak,Zill,Sephera,Maloch,Quillen,Y'bneth,Valhein
+107,7,3,45,1,RRQ Black Forest,Bazaar Gaming,Bazaar Gaming,Riktor,The Flash,Quillen,Xeniel,Veres,Sephera,Nakroth,Natalya,Yorn,Florentino,Elsu,TeeMee,Moren,D'Arcy,Baldum,Tel'Annas,Maloch,Superman
+108,7,3,45,2,RRQ Black Forest,Bazaar Gaming,Bazaar Gaming,Riktor,The Flash,Tel'Annas,Xeniel,Elsu,Sephera,Nakroth,Roxie,TeeMee,Florentino,Veres,Maloch,Lauriel,Baldum,D'Arcy,Omen,Ryoma,Valhein
+109,7,3,46,1,Toyota Diamond Cobra,AHQ Esport Club,Toyota Diamond Cobra,Riktor,Sephera,Tel'Annas,Valhein,Veres,TeeMee,Tulen,Murad,Xeniel,Florentino,Elsu,Quillen,Roxie,Baldum,Omen,Kriknak,Natalya,Maloch
+110,7,3,46,2,AHQ Esport Club,Toyota Diamond Cobra,Toyota Diamond Cobra,Elsu,TeeMee,Quillen,Murad,Riktor,Tulen,Baldum,Slimz,Ryoma,Florentino,Lindis,Zill,Zephys,Veres,Sephera,Maloch,Kriknak,Marja
+111,8,1,47,1,Workpoint Fighting Fish,Bazaar Gaming,Bazaar Gaming,Elsu,D'Arcy,Ryoma,Zill,Veres,Sephera,Maloch,Marja,Lindis,Florentino,Hayate,Violet,Nakroth,Riktor,Baldum,Tel'Annas,Xeniel,Kriknak
+112,8,1,47,2,Workpoint Fighting Fish,Bazaar Gaming,Workpoint Fighting Fish,Elsu,D'Arcy,Zill,Marja,Riktor,Sephera,Maloch,Wonder Woman,Violet,Florentino,Hayate,Lindis,Tel'Annas,Veres,Baldum,Ryoma,Valhein,Murad
+113,8,1,47,3,Workpoint Fighting Fish,Bazaar Gaming,Bazaar Gaming,D'Arcy,Elsu,Ryoma,Quillen,Riktor,TeeMee,Maloch,Tulen,Violet,Florentino,Hayate,Roxie,Wonder Woman,Veres,Sephera,Omen,Marja,Lindis
+114,8,1,48,1,Toyota Diamond Cobra,RRQ Black Forest,RRQ Black Forest,Riktor,Sephera,Omen,Kriknak,Veres,Quillen,Ryoma,Annette,Liliana,Florentino,Elsu,Hayate,TeeMee,D'Arcy,Baldum,Tel'Annas,Xeniel,Nakroth
+115,8,1,48,2,Toyota Diamond Cobra,RRQ Black Forest,Toyota Diamond Cobra,Sephera,Omen,Tel'Annas,Quillen,Riktor,Veres,The Flash,TeeMee,Ryoma,Florentino,Elsu,Nakroth,Kriknak,D'Arcy,Baldum,Xeniel,Hayate,Lu Bu
+116,8,1,48,3,RRQ Black Forest,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,D'Arcy,Omen,The Flash,Elsu,Baldum,Ryoma,Zill,Superman,Florentino,Maloch,Xeniel,Aleister,Veres,Sephera,Hayate,TeeMee,Nakroth
+117,8,1,49,1,Evos.Debut,Mega Ignition,Evos.Debut,Riktor,D'Arcy,Tel'Annas,Hayate,Veres,Tulen,Quillen,Xeniel,Mina,Florentino,Elsu,TeeMee,Annette,Sephera,Maloch,Kriknak,Ryoma,Omen
+118,8,1,49,2,Mega Ignition,Evos.Debut,Evos.Debut,Veres,Elsu,Kriknak,Nakroth,Sephera,Baldum,Quillen,Lu Bu,Hayate,Florentino,Riktor,Omen,Xeniel,Tel'Annas,Maloch,Superman,Ryoma,Tulen
+119,8,2,50,1,AHQ Esport Club,Mega Ignition,AHQ Esport Club,Sephera,Florentino,Ryoma,The Joker,Riktor,Maloch,Tel'Annas,Annette,Wonder Woman,D'Arcy,Elsu,Nakroth,Lindis,Veres,Quillen,Baldum,The Flash,Omen
+120,8,2,50,2,Mega Ignition,AHQ Esport Club,AHQ Esport Club,D'Arcy,Elsu,Omen,Tulen,Sephera,Riktor,Maloch,Nakroth,Hayate,Florentino,Veres,Kriknak,Lindis,Tel'Annas,Quillen,Annette,Aleister,Arum
+121,8,2,51,1,Bazaar Gaming,Toyota Diamond Cobra,Bazaar Gaming,Elsu,TeeMee,Lauriel,Quillen,Florentino,Baldum,Valhein,Nakroth,Marja,Ryoma,D'Arcy,Maloch,Murad,Riktor,Veres,Sephera,Zill,Aleister
+122,8,2,51,2,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,D'Arcy,Veres,Omen,Xeniel,Riktor,TeeMee,Sephera,Kriknak,The Joker,Florentino,Elsu,Valhein,Murad,Ryoma,Hayate,Baldum,Nakroth,Marja
+123,8,2,51,3,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,D'Arcy,Veres,Kriknak,Tel'Annas,Riktor,TeeMee,Nakroth,Raz,Cresht,Florentino,Elsu,Maloch,Tulen,Sephera,Ryoma,Omen,Wonder Woman,Xeniel
+124,8,3,52,1,AHQ Esport Club,RRQ Black Forest,AHQ Esport Club,D'Arcy,Veres,Moren,Hayate,Tel'Annas,Quillen,Annette,Baldum,Aleister,Florentino,Elsu,Maloch,Riktor,Ryoma,TeeMee,Omen,The Joker,Kriknak
+125,8,3,53,2,RRQ Black Forest,AHQ Esport Club,RRQ Black Forest,Veres,Riktor,Elsu,Arum,Tel'Annas,TeeMee,Omen,Ilumia,Nakroth,Florentino,D'Arcy,Kriknak,Ryoma,Quillen,Annette,Maloch,Aleister,Hayate
+126,8,3,53,3,AHQ Esport Club,RRQ Black Forest,AHQ Esport Club,D'Arcy,TeeMee,Kriknak,Hayate,Elsu,Quillen,Annette,Xeniel,Arum,Florentino,Tel'Annas,Aleister,Maloch,Riktor,Veres,Ryoma,The Flash,Moren
+127,8,3,54,1,Evos.Debut,Buriram United,Buriram United,Riktor,Elsu,Baldum,Mina,Sephera,Superman,Quillen,Wisp,Tulen,Florentino,Tel'Annas,Ryoma,Maloch,D'Arcy,Veres,Hayate,Annette,Xeniel
+128,8,3,54,2,Evos.Debut,Buriram United,Buriram United,Quillen,Kriknak,Baldum,Sephera,Riktor,Maloch,Hayate,Nakroth,The Flash,Florentino,Tel'Annas,Murad,Ryoma,D'Arcy,Veres,Elsu,Annette,Roxie
+129,8,4,55,1,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,D'Arcy,Veres,Murad,Tel'Annas,Riktor,TeeMee,The Flash,Valhein,Zanis,Florentino,Elsu,Hayate,Cresht,Ryoma,Sephera,Omen,Arum,Nakroth
