@@ -1,0 +1,24 @@
+id,Week,Day,Match,Game,Blue,Red,Winner,blue_ban_1,blue_ban_2,blue_ban_3,blue_ban_4,blue_pick_1,blue_pick_2,blue_pick_3,blue_pick_4,blue_pick_5,red_ban_1,red_ban_2,red_ban_3,red_ban_4,red_pick_1,red_pick_2,red_pick_3,red_pick_4,red_pick_5
+1,1,1,1,1,Buriram United,AHQ Esport Club,Buriram United,Hayate,Teemee,Liliana,The Flash,Veres,D'Arcy,Tel'Annas,Omen,Y'bneth,Florentino,Elsu,Nakroth,Aleister,Sephera,Riktor,Murad,Baldum,Capheny
+2,1,1,1,2,Buriram United,AHQ Esport Club,Buriram United,Hayate,Teemee,Baldum,Y'bneth,Veres,Riktor,Tel'Annas,Kriknak,Chaugnar,Florentino,Elsu,Nakroth,Quillen,Sephera,D'Arcy,Omen,Thane,The Joker
+3,1,1,1,3,AHQ Esport Club,Buriram United,Buriram United,Riktor,Veres,Omen,Baldum,Hayate,Teemee,Liliana,Xeniel,Kriknak,Florentino,Elsu,Murad,Quillen,D'Arcy,Sephera,Tel'Annas,Superman,Y'bneth
+4,1,1,2,1,Bazaar Gaming,Toyota Diamond Cobra,Toyota Diamond Cobra,Veres,Y'bneth,Kriknak,The Flash,Elsu,Baldum,Teemee,Ryoma,Raz,Florentino,D'Arcy,Murad,Tulen,Riktor,Hayate,Xeniel,Nakroth,Sephera
+5,1,1,2,2,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,D'Arcy,Riktor,Baldum,Omen,Hayate,Teemee,Sephera,Lindis,Xeniel,Florentino,Elsu,Kriknak,Wonder Woman,Veres,Valhein,Nakroth,Marja,Alice
+6,1,1,2,3,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,Riktor,D'Arcy,Baldum,Omen,Veres,Teemee,Nakroth,Liliana,Tel'Annas,Florentino,Elsu,Zill,The Flash,Sephera,Hayate,Kriknak,Tulen,Y'bneth
+7,1,1,2,4,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,D'Arcy,Riktor,Murad,Ryoma,Veres,Teemee,Hayate,Kriknak,Xeniel,Florentino,Elsu,The Flash,Nakroth,Sephera,Valhein,Baldum,Lindis,Zuka
+8,1,1,2,5,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,D'Arcy,Riktor,Baldum,Omen,Veres,Teemee,Nakroth,Marja,Capheny,Florentino,Elsu,The Flash,Tel'Annas,Valhein,Sephera,Kriknak,Hayate,Arum
+9,1,1,3,1,AHQ Esport Club,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Florentino,Annette,Tulen,Elsu,Kriknak,Veres,Valhein,Chaugnar,Teemee,Sephera,Baldum,Liliana,D'Arcy,Hayate,Xeniel,Raz,Omen
+10,1,1,3,2,AHQ Esport Club,Toyota Diamond Cobra,Toyota Diamond Cobra,Teemee,D'Arcy,Omen,Murad,Riktor,Sephera,Veres,Lindis,Xeniel,Florentino,Elsu,Tel'Annas,Nakroth,Hayate,Baldum,Liliana,Kriknak,Roxie
+11,1,2,4,1,Bazaar Gaming,Buriram United,Buriram United,D'Arcy,Kriknak,The Flash,Liliana,Elsu,Sephera,Baldum,Arum,Lindis,Florentino,Veres,Nakroth,Murad,Riktor,Hayate,Quillen,Teemee,Ilumia
+12,1,2,4,2,Buriram United,Bazaar Gaming,Bazaar Gaming,Veres,Valhein,Baldum,Teemee,Hayate,Maloch,Quillen,Grakk,Natalya,Florentino,D'Arcy,Omen,Sephera,Tel'Annas,Riktor,Kriknak,Y'bneth,Lauriel
+13,1,2,4,3,Bazaar Gaming,Buriram United,Buriram United,Hayate,Elsu,Sephera,Y'bneth,D'Arcy,Valhein,Omen,Maloch,Liliana,Florentino,Veres,Ryoma,Teemee,Tel'Annas,Riktor,Kriknak,Ilumia,Chaugnar
+14,1,2,4,4,Bazaar Gaming,Buriram United,Bazaar Gaming,Hayate,Elsu,Y'bneth,Xeniel,Veres,Kriknak,Teemee,Cresht,The Flash,Florentino,D'Arcy,Valhein,Omen,Riktor,Tel'Annas,Quillen,Baldum,Lauriel
+15,1,2,4,5,Buriram United,Bazaar Gaming,Bazaar Gaming,Kriknak,Veres,Tel'Annas,Tulen,Hayate,Riktor,Chaugnar,Sephera,Nakroth,Florentino,Elsu,Quillen,The Flash,D'Arcy,Teemee,Omen,Murad,Xeniel
+16,1,2,5,1,Buriram United,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Teemee,Xeniel,Y'bneth,Florentino,Elsu,Zill,Chaugnar,Aleister,D'Arcy,Sephera,Baldum,Mina,Hayate,Veres,Nakroth,Raz,Cresht
+17,1,2,5,2,Toyota Diamond Cobra,Buriram United,Toyota Diamond Cobra,D'Arcy,Kriknak,Quillen,Murad,Riktor,Elsu,Sephera,Max,Wonder Woman,D'Arcy,Nakroth,Zill,Ryoma,Hayate,Veres,Baldum,Lindis,Omen
+18,1,2,5,3,Buriram United,Toyota Diamond Cobra,Toyota Diamond Cobra,Riktor,Florentino,Cresht,Xeniel,Veres,Ilumia,Kriknak,Y'bneth,Wisp,D'Arcy,Florentino,Tel'Annas,Teemee,Elsu,Sephera,Murad,Tulen,Max
+19,1,2,6,1,Toyota Diamond Cobra,Bazaar Gaming,Bazaar Gaming,D'Arcy,Valhein,Tulen,Teemee,Riktor,Xeniel,Elsu,Zill,Max,Florentino,Sephera,Kriknak,Wonder Woman,Veres,Hayate,Nakroth,Alice,Marja
+20,1,2,6,2,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,Veres,Riktor,Tulen,Murad,D'Arcy,Teemee,Tel'Annas,Kriknak,Omen,Florentino,Sephera,The Flash,Nakroth,Elsu,Hayate,Chaugnar,Zephys,Y'bneth
+21,1,2,6,3,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,Veres,Riktor,Murad,Superman,Hayate,Teemee,Tulen,Quillen,Roxie,Florentino,D'Arcy,Nakroth,Wonder Woman,Elsu,Sephera,Y'bneth,Omen,Lindis
+22,1,2,6,4,Toyota Diamond Cobra,Bazaar Gaming,Toyota Diamond Cobra,Veres,Riktor,Roxie,Alice,Hayate,Teemee,Omen,Ryoma,Tulen,Florentino,D'Arcy,Murad,Quillen,Valhein,Sephera,Kriknak,Wonder Woman,Lu Bu
+23,1,2,6,5,Bazaar Gaming,Toyota Diamond Cobra,Toyota Diamond Cobra,Teemee,Hayate,Max,Roxie,Veres,Tel'Annas,Omen,Baldum,Zill,Florentino,D'Arcy,Murad,Nakroth,Riktor,Sephera,Elsu,Kriknak,Maloch
